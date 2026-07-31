@@ -1,0 +1,3 @@
+cfdemSolverPisogravity.C
+
+EXE=$(CFDEM_APP_DIR)/cfdemSolverPisogravity
